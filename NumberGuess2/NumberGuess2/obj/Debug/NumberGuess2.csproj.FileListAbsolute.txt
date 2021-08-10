@@ -1,0 +1,7 @@
+C:\Users\Carl\source\repos\NumberGuess2\NumberGuess2\bin\Debug\NumberGuess2.exe.config
+C:\Users\Carl\source\repos\NumberGuess2\NumberGuess2\bin\Debug\NumberGuess2.exe
+C:\Users\Carl\source\repos\NumberGuess2\NumberGuess2\bin\Debug\NumberGuess2.pdb
+C:\Users\Carl\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.csproj.AssemblyReference.cache
+C:\Users\Carl\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.csproj.CoreCompileInputs.cache
+C:\Users\Carl\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.exe
+C:\Users\Carl\source\repos\NumberGuess2\NumberGuess2\obj\Debug\NumberGuess2.pdb
